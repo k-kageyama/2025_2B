@@ -17,4 +17,4 @@
 ## 使用技術
 html/css
 ## ファルダ構成
-project-root/ ├── index.html ├── style.css ├── js/ │ └── chart.js ├── data/ │ └── gdp_data.csv └── README.md
+サイト作成場所/ ├── index.html 
