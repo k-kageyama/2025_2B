@@ -25,3 +25,4 @@ html/css
 ## ファルダ構成
 サイト作成場所/├└──index.html#サイト場所 
 pics/├└──かわいいヴィクトリカの写真 └──ロシアのGDP推移└──日本のGDP推移
+graph/├└──GDP per growth.png├└──worldGDP.png
