@@ -23,5 +23,5 @@ html/css
 - 小寺 :CSVファイルデータをTableauグラフ形式に変換,issueを作成,releaseの発行
 
 ## ファルダ構成
-サイト作成場所/├└──index.html#サイト場所 
+サイト作成場所/├└──index.html#サイト場所
 pics/├└──かわいいヴィクトリカの写真 └──ロシアのGDP推移└──日本のGDP推移
